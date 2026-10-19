@@ -1,6 +1,6 @@
 
-/
-Claude Desktop (macOS), Connected
+![tests](https://github.com/Kbrown176/option-pricer/actions/workflows/tests.yml/badge.svg)
+
 
 
 
