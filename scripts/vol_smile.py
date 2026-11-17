@@ -14,7 +14,7 @@ import yfinance as yf
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-from option_pricer.smile import build_smile, implied_forward  # noqa: E402
+from option_pricer.smile import build_smile, implied_forward
 
 MIN_DAYS = 30            # use the first expiry at least this far away
 MONEYNESS = (0.8, 1.2)   # keep strikes between 80% and 120% of spot
